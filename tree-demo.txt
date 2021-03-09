@@ -2,6 +2,7 @@
 |   run-demo.bat
 |   
 \---Resources
+    |
     +---docs
     |   |   allclasses-index.html
     |   |   allclasses.html
