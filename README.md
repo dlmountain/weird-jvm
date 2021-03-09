@@ -2,6 +2,7 @@
 This is to host Java snippets that exhibit odd behavior.
 
 **Episode One: The Phantom Classpaths**
+
 Start Date: 03/08/2021
 The Java saga of a lifetime! Dale Mountain tries to figure out how and why his JVM is acting up. Ideally, there will be a resolution. 
 TODO:
