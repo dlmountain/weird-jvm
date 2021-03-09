@@ -1,14 +1,7 @@
 |   Demo.java
-|   run.bat
-|   [specs].txt
+|   run-demo.bat
 |   
 \---Resources
-    |   Database ERD (1).pdf
-    |   Locale Codes for Language.pdf
-    |   Locale Codes for Region.pdf
-    |   MySQL Virtual Access Instructions.docx
-    |   mysql-connector-java-8.0.23.zip
-    |   
     +---docs
     |   |   allclasses-index.html
     |   |   allclasses.html
